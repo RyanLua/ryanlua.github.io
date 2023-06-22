@@ -43,7 +43,7 @@ social_media:
   twitter: RaenLua
   # unsplash: your_username
   # vk: your_username
-  # website: http://your_website_url
+  website: https://ryanlua.github.io/
   # youtube: your_username
   discord: https://discord.com/invite/ET7k2nmU
   roblox: 345072461
@@ -54,9 +54,9 @@ topics:
     web_url: https://github.com/topics/lua
     image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/lua/lua.png
 
-  - name: Web design
-
-  - name: Roblox
+  - name: C#
+    web_url: https://github.com/topics/csharp
+    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png
 
   - name: Python
     web_url: https://github.com/topics/python
