@@ -1,12 +1,12 @@
 :root {
-    color-scheme: dark;
+	color-scheme: dark;
 }
 
 body {
-    font-family: monospace;
-    padding: 1rem;
+	font-family: monospace;
+	padding: 1rem;
 }
 
 li {
-    list-style-type: "- ";
+	list-style-type: "- ";
 }
