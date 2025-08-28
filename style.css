@@ -8,10 +8,15 @@ body {
 	padding: 1rem;
 }
 
-li {
-	list-style-type: "- ";
-}
-
 a {
 	color: inherit;
+	font-weight: bold;
+}
+
+li {
+	list-style-type: "- ";
+
+	& a {
+		margin-right: 1em;
+	}
 }
