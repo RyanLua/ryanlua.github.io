@@ -3,10 +3,15 @@
 }
 
 body {
+	color: lime;
 	font-family: monospace;
 	padding: 1rem;
 }
 
 li {
 	list-style-type: "- ";
+}
+
+a {
+	color: inherit;
 }
