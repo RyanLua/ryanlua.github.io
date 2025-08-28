@@ -1,22 +1,22 @@
 :root {
-    color-scheme: dark;
+  color-scheme: dark;
 }
 
 body {
-    color: lime;
-    font-family: monospace;
-    padding: 1rem;
+  color: lime;
+  font-family: monospace;
+  padding: 1rem;
 }
 
 a {
-    color: inherit;
-    font-weight: bold;
+  color: inherit;
+  font-weight: bold;
 }
 
 li {
-    list-style-type: "- ";
+  list-style-type: "- ";
 
-    & a {
-        margin-right: 1em;
-    }
+  & a {
+    margin-right: 1em;
+  }
 }
