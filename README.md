@@ -5,7 +5,7 @@
 Source code for my personal website at [ryanluu.dev](https://ryanluu.dev). Completely static and made in HTML and CSS with no JavaScript or dependencies.
 
 * Dark and light color theme
-* SVG and AVIF for images
+* SVG for images
 * Web safe fonts
 
 ![Screenshot of ryanluu.dev](assets/screenshot.png)
