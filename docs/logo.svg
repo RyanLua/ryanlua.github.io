@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="#eef" viewBox="0 0 128 128" preserveAspectRatio="xMidYMid meet" version="1.2" baseProfile="tiny-ps" xml:space="preserve"><title>Ryan Luu logo</title>
+  <rect width="100%" height="100%" fill="url(#a)"/>
+  <path d="M24 32v64h10V42h16c17 0 15 21 3 21h-9l18 33h12L60 71q6-2 10-10l21 35h13V32H94v49L63 32z"/>
+  <defs>
+    <radialGradient id="a" cy="100%" r="100%" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#305"/>
+      <stop offset="1" stop-color="#112"/>
+    </radialGradient>
+  </defs>
+</svg>
