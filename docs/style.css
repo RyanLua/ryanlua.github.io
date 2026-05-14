@@ -1,6 +1,6 @@
 :root {
-	--bg-color: light-dark(oldlace, #111);
-	--text-color: light-dark(dimgray, lightgray);
+	--bg-color: light-dark(oldlace, #112);
+	--text-color: light-dark(dimgray, darkgray);
 	--hl-color: light-dark(#ffff0080, #ffff0040);
 	--emphasized-color: light-dark(black, white);
 	color-scheme: light dark;
