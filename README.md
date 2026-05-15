@@ -10,6 +10,6 @@ Source code for my personal website at [ryanluu.dev](https://ryanluu.dev). Compl
 
 ![Screenshot of ryanluu.dev](assets/screenshot.png)
 
-You can find the source code in the [`docs`](docs) directory. The site is hosted using [GitHub Pages](http://pages.github.com). [Biome](https://biomejs.dev/) is used for linting and formatting.
+You can find the source code in the [`docs`](docs) directory. The site is hosted using [GitHub Pages](http://pages.github.com).
 
 ###### Not a secret, but [my GPG key is hosted on my website](https://ryanluu.dev/public.asc)!
