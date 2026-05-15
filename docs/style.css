@@ -68,10 +68,12 @@ svg.signature path {
 	0% {
 		stroke-dashoffset: 6945;
 	}
+
 	25%,
 	75% {
 		stroke-dashoffset: 4630;
 	}
+
 	100% {
 		stroke-dashoffset: 2315;
 	}
@@ -81,6 +83,7 @@ svg.signature path {
 	from {
 		fill-opacity: 0;
 	}
+
 	to {
 		fill-opacity: 1;
 	}
